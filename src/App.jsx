@@ -1,4 +1,3 @@
-
 import './App.css'
 import FunnelIcon from './components/FunnelIcon'
 import SparkleIcon from './components/SparkleIcon'

@@ -1,5 +1,3 @@
-import React from 'react'
-
 const SparkleIcon = ({ width, height, color }) => {
   return (
     <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width={width} height={height} fill={color} viewBox="0 0 512 512">
