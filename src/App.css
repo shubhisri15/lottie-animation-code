@@ -31,12 +31,12 @@
 .sparkle {
   width: 150px;  
   height: 150px;
-  animation: sparkleEntrance 1.1s ease-in-out forwards;
+  animation: sparkleEntrance 1.8s ease-in-out forwards;
 }
 
 @keyframes sparkleEntrance {
   0% {
-    transform: translateX(-250px) scale(0.1) rotate(0deg);
+    transform: translateX(-150px) scale(0.1) rotate(0deg);
     opacity: 0;
   }
   40% {
