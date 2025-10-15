@@ -21,7 +21,8 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  animation: logoAnimateUp 1.6s ease-in-out 1.8s forwards, logoFadeout 1.6s ease-in-out 3.4s forwards
+  animation: logoAnimateUp 1.6s ease-in-out 1.8s forwards, logoFadeout 1.6s ease-in-out 3.4s forwards;
+  margin-top: 3rem
 }
 
 .shapes-container {
@@ -35,6 +36,12 @@
   width: 150px;  
   height: 150px;
   animation: sparkleEntrance 1.8s ease-in-out forwards;
+}
+
+.replay-btn {
+  padding: 8px 12px;
+  font-size: 20px;
+  margin-top: 40px
 }
 
 @keyframes logoAnimateUp {
